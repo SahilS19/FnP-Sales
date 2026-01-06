@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Banner](assets/fnp-dashboards.png)
+![Dashboard Banner](assets/FnP-Dashboards.png)
 
 
 ---
