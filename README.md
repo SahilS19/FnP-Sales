@@ -2,10 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="assets/fnp-sales-dashboard.png" alt="FNP Dashboard" width="900">
-</p>
-
+![Banner](assets/FnP-Dashboards)
 
 ---
 
