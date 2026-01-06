@@ -1,7 +1,11 @@
 # FNP Sales Analysis Dashboard 📊
 
-## 📷 Dashboard Preview
-![FNP Sales Analysis Dashboard](assets/FnP-dashboard.png)
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="assets/fnp-sales-dashboard.png" alt="FNP Dashboard" width="900">
+</p>
+
 
 ---
 
