@@ -2,7 +2,8 @@
 
 ## 📊 Dashboard Preview
 
-![Banner](assets/FnP-Dashboards)
+![Dashboard Banner](assets/fnp-sales-dashboard.png)
+
 
 ---
 
